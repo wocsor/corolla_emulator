@@ -66,7 +66,7 @@ Enter the tmux session with
 ```
 tmux a
 ```
-and create a new window by pressing backtick " ` ", the key above the tab, and C. You can navigate the windows using ` + N for next and ` + p for Previous.
+and create a new window by pressing backtick ``` ` ```, the key above the tab, and C. You can navigate the windows using ``` ` + N``` for next and ``` ` + p``` for Previous.
  
 Now you should be able to kill OP in window 0 with control-C and relaunch with:
 ```
