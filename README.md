@@ -1,4 +1,4 @@
-# Toyota-Radar-Spoofer
+# Corolla Emulator
 Much of the below is ripped right out of my radar spoofer project. I regret nothing.
 
 I wanted to emulate a Corolla on the Arduino, so I created this project. If you want to play around with OP on an unsupported car, this will also enable your radar and may open the door for some other neato projects. Who knows? "Not I," said the giraffe. "Not I," said the panda.
