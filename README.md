@@ -35,7 +35,7 @@ I made up a little wiring harness for the Arduino to connect to the Giraffe thro
 
 CAN1H and CAN1L should be connected to the MCP2515 CAN H and L lines via Ethernet pins 3 and 6, respectively.
 Here's a badly made schematic with little to no effort put into it. RIP, MS Paint.
-![alt text] (https://github.com/wocsor/corolla_emulator/blob/master/pics/corolla_emu.png?raw=true)
+![alt text](https://github.com/wocsor/corolla_emulator/blob/master/pics/corolla_emu.png?raw=true)
 
 ### Radar:
 
