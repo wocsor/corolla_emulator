@@ -51,12 +51,12 @@ The pins connect as follows:
 
 |RADAR PIN	| FUNCTION	| GIRAFFE PIN|
 |-----------|-----------|------------|
-|1	      	| 	VCC	    |		4        |
+|1	      	| 	GND	    |		4        |
 |2			    |  CANL		  |   5        | 
 |3			    |  CANH     |		11       | 
 |5		      |	CANH      |		12       | 
 |6			    |  CANL     |		6        |
-|8			    |  GND      |	  1        |
+|8			    |  VCC      |	  1        |
 
 
 Once this is connected, plug the Arduino into the giraffe by ethernet and upload the sketch to your Arduino. SSH into your Eon using the guide here:
